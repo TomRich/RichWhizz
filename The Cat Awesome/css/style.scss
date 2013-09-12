@@ -1,0 +1,19 @@
+/* Main Styles */
+
+$Main: #FFFFFF;
+$Offset: #2d9bc5;
+
+body {
+	background: $Main;
+}
+
+/* Header */
+
+div#header {
+display: block;
+background: $Offset;
+height: 80px;
+width: 100%;
+position: absolute;
+top: 0px;
+}

@@ -1,0 +1,12 @@
+/* Main Styles */
+body {
+  background: white; }
+
+/* Header */
+div#header {
+  display: block;
+  background: #2d9bc5;
+  height: 80px;
+  width: 100%;
+  position: absolute;
+  top: 0px; }
